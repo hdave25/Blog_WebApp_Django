@@ -1,3 +1,3 @@
 # Blog_WebApp_Django
 
-This is a simple blog application which lets users create, delete, edit their posts. This web application is developed in **Djnago** framework.
+This is a simple blog web application which lets users create, delete and edit their posts with authentication. This web application is developed using **Djnago** framework.
